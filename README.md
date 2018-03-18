@@ -1,2 +1,2 @@
 # MyTextRepository
-This is my cangku
+This is my cangkuss
